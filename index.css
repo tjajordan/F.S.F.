@@ -1,0 +1,50 @@
+@font-face {
+.software
+font-family: PP Neue Montreal, sans serif;
+src:
+}
+
+body{
+    color: antiquewhite;
+    background-color:  crimson;
+    margin: 10px;
+    padding: 10px;
+    align-items: left;
+    justify-content: left;
+    background-size: contain;
+    
+    
+}
+
+.MainMenu {width: 500px;
+           height: 200px;
+    
+}
+a {
+  color: antiquewhite;
+  text-decoration: none;
+}
+
+.Statement {
+    font-size: 120px;
+    font-family: sans-serif;
+    font-style: inherit;
+    text-align: left; 
+    padding-top: 500px
+    
+
+    
+}
+header, footer {
+    background-color: crimson;
+    width: 100%;
+}
+
+.Subscribe {
+    text-align: center;
+    font-size; 100px;
+    font-family: sans-serif;
+    font-style: inherit
+}
+
+
